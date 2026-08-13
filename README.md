@@ -62,3 +62,9 @@ If you want to run this project locally or test it on Google Colab, follow these
    ```bash
    git clone [https://github.com/YusufAbozhw/Brain_Tumor_Detector.git](https://github.com/YusufAbozhw/Brain_Tumor_Detector.git)
    cd Brain_Tumor_Detector
+
+---
+
+## Disclaimer
+
+This system is developed strictly for educational and demonstration purposes. It is not intended to provide medical advice, diagnosis, or treatment, and should never replace professional medical evaluation.
